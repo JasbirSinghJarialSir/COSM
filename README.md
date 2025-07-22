@@ -14,6 +14,7 @@ Each practical includes:
 Detailed Practical Statements for COSM (C++ + Python Visualization)
 **🔹 UNIT I – Descriptive Statistics & Frequency Distribution**
 **1. Create a frequency distribution table for ungrouped data**
+  
 C++: Write a program to input n numbers, calculate frequency count, and display it.
 Python: Use matplotlib.pyplot.bar() to create a bar chart showing the frequencies.
 
